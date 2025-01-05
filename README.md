@@ -1,4 +1,4 @@
-# Chanel Munezero - Netlify
+# Blog - Chanel Munezero
 
 ![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
 
