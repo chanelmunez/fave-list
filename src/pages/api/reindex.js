@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { index } from '../../utils/indexer';
 
 export default async function handler(req, res) {

@@ -16,6 +16,9 @@
 /.next/
 /out/
 
+# vercel
+/.vercel/
+
 # production
 /build
 
